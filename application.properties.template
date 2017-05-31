@@ -1,0 +1,4 @@
+accessKey={{AWS_ACCESS_KEY_ID}}
+secretKey={{AWS_SECRET_ACCESS_KEY}}
+queueUrl={{SQS_QUEUE_URL}}
+targetUrl=http://{{URL_HOST}}/sqs-worker
